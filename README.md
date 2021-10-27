@@ -2,9 +2,9 @@
 
 
 
-  > > >              🐢🐢 A web project based on travel ✈️✈️ and tourism 🌈,
-                                  having facility to book hotels 🏡🏡 , flights 🛩🛩, 
-                                           with ✨creative animations✨ and some spices🌶🌶🌶  😋😋
+               🐢🐢 A web project based on travel ✈️✈️ and tourism 🌈,
+                                having facility to book hotels 🏡🏡 , flights 🛩🛩, 
+                                          with ✨creative animations✨ and some spices🌶🌶🌶  😋😋
 
 
 
