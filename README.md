@@ -8,7 +8,7 @@
 
 
 
-😮 one can website UI using link - https://bit.ly/webpage008
+😮 one can visits the website UI using link - https://bit.ly/webpage008
 
 drop your suggestion or collaboration invitaion at
 
